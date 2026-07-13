@@ -9,6 +9,36 @@
 ![](https://streak-stats.demolab.com/?user=Anuxragg&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Anuxragg&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+###  DSA Grind
+
+> I believe **"Consistency Over Intensity"**. Solving DSA problems every single day on LeetCode, tracking my progress through Striver's A2Z sheet. Every commit here is proof of that grind.
+
+<table align="center">
+<tr>
+<td align="center" valign="top" width="55%">
+
+<a href="https://leetcode.com/anuraggx">
+  <img src="https://leetcard.jacoblin.cool/anuraggx?theme=light&font=Fira%20Code&ext=activity&border=0" alt="LeetCode Stats Card" />
+</a>
+
+</td>
+<td valign="top" width="45%">
+
+**Striver A2Z Progress**
+
+| Status | Topic | Stage |
+|:---:|---|:---:|
+| 🔥 | Arrays & Strings | In Progress |
+| 🔜 | Linked Lists | Up Next |
+| ⏳ | Stacks & Queues | Upcoming |
+| ⏳ | Trees & Graphs | Upcoming |
+| ⏳ | Dynamic Programming | Upcoming |
+
+</td>
+</tr>
+</table>
+
+---
 ---
 [![](https://komarev.com/ghpvc/?username=Anuxragg&icon=0&color=0)](https://visitcount.itsvg.in)
 
