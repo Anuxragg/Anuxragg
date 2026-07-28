@@ -9,9 +9,9 @@
   <img src="https://streak-stats.demolab.com/?user=Anuxragg&theme=default&hide_border=false" width="49%" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Anuxragg&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="40%" />
-</p>
+</p> -->
 
 ---
 
